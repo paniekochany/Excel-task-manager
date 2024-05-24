@@ -1,4 +1,4 @@
-# Task Planner Important & Urgent
+# Task Manager | Important & Urgent Matrix
 
 Simple Excel app, inspired by the fantastic Excel VBA Course by [TrumpExcel](https://www.youtube.com/@trumpexcel). Idea and skills needed to develop it I attribute to the course. However, the final code was developed independently by myself.
 
