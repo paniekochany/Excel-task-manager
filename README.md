@@ -5,3 +5,5 @@ Simple Excel app, inspired by the fantastic Excel VBA Course by [TrumpExcel](htt
 The purpose of the app is task management. Users can add new tasks, specifying their importance and urgency using the "Add a New Task" button. Upon completing a task, users can simply double-click on it and utilize the "Remove Completed Task" button to clear it from the list.
 
 Sheet can be unprotected with no password.
+
+To make it work first enable macros.
